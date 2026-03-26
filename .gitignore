@@ -1,0 +1,9 @@
+.python-version
+.venv
+.DS_Store
+.claude
+*.egg-info
+__pycache__
+.vscode
+
+models/rn50_cifar10
